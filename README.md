@@ -1,0 +1,1 @@
+A c# client to capture screen shot and send to qq
